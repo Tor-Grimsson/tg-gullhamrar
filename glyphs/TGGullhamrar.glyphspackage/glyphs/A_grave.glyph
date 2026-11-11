@@ -1,0 +1,54 @@
+{
+glyphname = Agrave;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (229,464);
+ref = gravecomb.case;
+}
+);
+width = 866;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (369,436);
+ref = gravecomb.case;
+}
+);
+width = 1147;
+},
+{
+layerId = "02CCE267-3429-4A8C-B11C-70F8CE339653";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (252,459);
+ref = gravecomb.case;
+}
+);
+width = 913;
+}
+);
+metricWidth = "=A";
+unicode = 192;
+}

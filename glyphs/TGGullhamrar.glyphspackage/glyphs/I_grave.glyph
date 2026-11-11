@@ -1,0 +1,54 @@
+{
+glyphname = Igrave;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (-76,464);
+ref = gravecomb.case;
+}
+);
+width = 256;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (20,436);
+ref = gravecomb.case;
+}
+);
+width = 448;
+},
+{
+layerId = "02CCE267-3429-4A8C-B11C-70F8CE339653";
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (-60,459);
+ref = gravecomb.case;
+}
+);
+width = 288;
+}
+);
+metricWidth = "=I";
+unicode = 204;
+}

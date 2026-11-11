@@ -1,0 +1,54 @@
+{
+glyphname = Zcaron;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Z;
+},
+{
+alignment = -1;
+pos = (207,464);
+ref = caroncomb.case;
+}
+);
+width = 838;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = Z;
+},
+{
+alignment = -1;
+pos = (294,436);
+ref = caroncomb.case;
+}
+);
+width = 1012;
+},
+{
+layerId = "02CCE267-3429-4A8C-B11C-70F8CE339653";
+shapes = (
+{
+alignment = -1;
+ref = Z;
+},
+{
+alignment = -1;
+pos = (218,459);
+ref = caroncomb.case;
+}
+);
+width = 860;
+}
+);
+metricWidth = "=Z";
+unicode = 381;
+}

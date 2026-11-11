@@ -1,0 +1,35 @@
+{
+glyphname = softhyphen;
+kernLeft = hyphen;
+kernRight = hyphen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 680;
+},
+{
+layerId = "02CCE267-3429-4A8C-B11C-70F8CE339653";
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 613;
+}
+);
+unicode = 173;
+}

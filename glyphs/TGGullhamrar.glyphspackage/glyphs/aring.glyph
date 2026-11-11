@@ -1,0 +1,54 @@
+{
+glyphname = aring;
+kernLeft = a;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (199,444);
+ref = ringcomb;
+}
+);
+width = 708;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (323,416);
+ref = ringcomb;
+}
+);
+width = 957;
+},
+{
+layerId = "02CCE267-3429-4A8C-B11C-70F8CE339653";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (220,439);
+ref = ringcomb;
+}
+);
+width = 750;
+}
+);
+metricWidth = "=a";
+unicode = 229;
+}

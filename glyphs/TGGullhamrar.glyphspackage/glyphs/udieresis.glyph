@@ -1,0 +1,54 @@
+{
+glyphname = udieresis;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (-28,-11);
+ref = dieresiscomb;
+}
+);
+width = 744;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (92,12);
+ref = dieresiscomb;
+}
+);
+width = 984;
+},
+{
+layerId = "02CCE267-3429-4A8C-B11C-70F8CE339653";
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (-8,-7);
+ref = dieresiscomb;
+}
+);
+width = 784;
+}
+);
+metricWidth = "=u";
+unicode = 252;
+}

@@ -1,0 +1,54 @@
+{
+color = 6;
+glyphname = oe;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (488,0);
+ref = e;
+}
+);
+width = 1212;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (549,0);
+ref = e;
+}
+);
+width = 1514;
+},
+{
+layerId = "02CCE267-3429-4A8C-B11C-70F8CE339653";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (499,0);
+ref = e;
+}
+);
+width = 1263;
+}
+);
+unicode = 339;
+}

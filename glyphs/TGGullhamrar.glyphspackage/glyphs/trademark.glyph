@@ -1,0 +1,121 @@
+{
+color = 6;
+glyphname = trademark;
+layers = (
+{
+guides = (
+{
+pos = (707,446);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1.774,707);
+ref = T;
+scale = (0.4274,0.4274);
+},
+{
+alignment = -1;
+pos = (347.347,707);
+ref = M;
+scale = (0.4274,0.4274);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 787;
+},
+{
+guides = (
+{
+pos = (693,446);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (1.774,707);
+ref = T;
+scale = (0.4274,0.4274);
+},
+{
+alignment = -1;
+pos = (452.065,707);
+ref = M;
+scale = (0.4274,0.4274);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1018;
+},
+{
+layerId = "02CCE267-3429-4A8C-B11C-70F8CE339653";
+shapes = (
+{
+alignment = -1;
+pos = (1.774,707);
+ref = T;
+scale = (0.4274,0.4274);
+},
+{
+alignment = -1;
+pos = (364.871,707);
+ref = M;
+scale = (0.4274,0.4274);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 826;
+}
+);
+metricLeft = V;
+metricRight = V;
+unicode = 8482;
+}

@@ -1,0 +1,54 @@
+{
+glyphname = ograve;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (176,400);
+ref = gravecomb;
+}
+);
+width = 760;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (304,372);
+ref = gravecomb;
+}
+);
+width = 1016;
+},
+{
+layerId = "02CCE267-3429-4A8C-B11C-70F8CE339653";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (197,395);
+ref = gravecomb;
+}
+);
+width = 803;
+}
+);
+metricWidth = "=o";
+unicode = 242;
+}

@@ -1,0 +1,52 @@
+{
+color = 6;
+glyphname = macron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,1084,l),
+(412,1084,l),
+(412,1180,l),
+(60,1180,l)
+);
+}
+);
+width = 472;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,1016,l),
+(668,1016,l),
+(668,1256,l),
+(60,1256,l)
+);
+}
+);
+width = 728;
+},
+{
+layerId = "02CCE267-3429-4A8C-B11C-70F8CE339653";
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,1072,l),
+(454,1072,l),
+(454,1192,l),
+(60,1192,l)
+);
+}
+);
+width = 514;
+}
+);
+unicode = 175;
+}

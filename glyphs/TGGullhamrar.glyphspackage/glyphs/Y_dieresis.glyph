@@ -1,0 +1,54 @@
+{
+glyphname = Ydieresis;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+alignment = -1;
+pos = (11,51);
+ref = dieresiscomb.case;
+}
+);
+width = 822;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+alignment = -1;
+pos = (127,48);
+ref = dieresiscomb.case;
+}
+);
+width = 1071;
+},
+{
+layerId = "02CCE267-3429-4A8C-B11C-70F8CE339653";
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+alignment = -1;
+pos = (30,50);
+ref = dieresiscomb.case;
+}
+);
+width = 864;
+}
+);
+metricWidth = "=Y";
+unicode = 376;
+}

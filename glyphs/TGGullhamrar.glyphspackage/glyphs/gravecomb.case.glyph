@@ -1,0 +1,81 @@
+{
+color = 6;
+glyphname = gravecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (204,779);
+},
+{
+name = top;
+pos = (204,979);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(164,975,l),
+(164,903,l),
+(316,847,l),
+(316,859,l)
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (204,804);
+},
+{
+name = top;
+pos = (204,1004);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(147,1034,l),
+(137,909,l),
+(322,864,l),
+(330,891,l)
+);
+}
+);
+width = 400;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (204,783);
+},
+{
+name = top;
+pos = (204,983);
+}
+);
+layerId = "02CCE267-3429-4A8C-B11C-70F8CE339653";
+shapes = (
+{
+closed = 1;
+nodes = (
+(161,985,l),
+(159,904,l),
+(317,850,l),
+(318,864,l)
+);
+}
+);
+width = 400;
+}
+);
+}

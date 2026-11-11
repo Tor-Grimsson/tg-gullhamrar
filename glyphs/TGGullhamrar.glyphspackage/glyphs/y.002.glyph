@@ -1,0 +1,181 @@
+{
+category = bak;
+export = 0;
+glyphname = y.002;
+kernLeft = y;
+kernRight = y;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (388,984);
+}
+);
+background = {
+hints = (
+{
+name = "_corner.hook-LC-vwyx";
+options = 1;
+type = Corner;
+},
+{
+name = "_corner.hook-LC-vwyx";
+options = 1;
+type = Corner;
+},
+{
+name = "_corner.hook-LC-vwyx";
+options = 1;
+origin = (0,0);
+type = Corner;
+},
+{
+name = "_corner.hook-LC-vwyx";
+options = 1;
+origin = (0,2);
+type = Corner;
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(308,-319,l),
+(760,920,l),
+(720,920,l),
+(268,-319,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(428,37,l),
+(474,244,l),
+(461,244,l),
+(185,920,l),
+(57,920,l),
+(413,37,l)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(284,-319,l),
+(687,920,l),
+(647,920,l),
+(375,80,ls),
+(302,-147,o),
+(195,-264,o),
+(24,-303,c),
+(24,-319,l)
+);
+},
+{
+alignment = -1;
+pos = (33,0);
+ref = v;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 711;
+},
+{
+anchors = (
+{
+name = top;
+pos = (564,984);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(240,-340,cs),
+(373,-340,ls),
+(475,-340,o),
+(521,-223,o),
+(552,-139,cs),
+(938,920,l),
+(898,920,l),
+(566,10,ls),
+(537,-70,o),
+(500,-124,o),
+(419,-124,cs),
+(285,-124,ls),
+(168,-124,o),
+(109,-103,o),
+(99,-4,c),
+(75,-4,l),
+(55,-184,o),
+(101,-340,o)
+);
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = v;
+},
+{
+closed = 1;
+nodes = (
+(444,-319,l),
+(896,920,l),
+(856,920,l),
+(553,80,ls),
+(473,-143,o),
+(307,-264,o),
+(120,-303,c),
+(120,-319,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 971;
+},
+{
+layerId = "02CCE267-3429-4A8C-B11C-70F8CE339653";
+width = 802;
+}
+);
+metricLeft = v;
+metricRight = v;
+}

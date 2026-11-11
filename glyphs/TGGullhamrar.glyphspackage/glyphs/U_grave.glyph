@@ -1,0 +1,54 @@
+{
+glyphname = Ugrave;
+kernLeft = U;
+kernRight = J;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (182,464);
+ref = gravecomb.case;
+}
+);
+width = 772;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (346,436);
+ref = gravecomb.case;
+}
+);
+width = 1100;
+},
+{
+layerId = "02CCE267-3429-4A8C-B11C-70F8CE339653";
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (209,459);
+ref = gravecomb.case;
+}
+);
+width = 827;
+}
+);
+metricWidth = "=U";
+unicode = 217;
+}

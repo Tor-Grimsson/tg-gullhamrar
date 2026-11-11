@@ -1,0 +1,222 @@
+{
+glyphname = Y;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (411,1304);
+}
+);
+guides = (
+{
+angle = 113.8;
+pos = (104,780);
+},
+{
+angle = 113.8;
+pos = (8,780);
+}
+);
+hints = (
+{
+name = "_corner.hook-UC-XY";
+options = 1;
+origin = (2,2);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(465,538,l),
+(152,1240,l),
+(16,1240,l),
+(357,475,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(465,0,l),
+(465,598,l),
+(337,598,l),
+(337,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(806,1224,l),
+(806,1240,l),
+(774,1240,l),
+(433,571,l),
+(460,545,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 822;
+},
+{
+anchors = (
+{
+name = top;
+pos = (527,1304);
+}
+);
+guides = (
+{
+angle = 113.8;
+pos = (221,780);
+},
+{
+angle = 113.8;
+pos = (125,780);
+}
+);
+hints = (
+{
+name = "_corner.hook-UC-XY";
+options = 1;
+origin = (2,2);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(677,519,l),
+(344,1240,l),
+(16,1240,l),
+(381,443,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(678,0,l),
+(678,582,l),
+(358,582,l),
+(358,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1055,1224,l),
+(1055,1240,l),
+(1015,1240,l),
+(637,529,l),
+(670,500,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1071;
+},
+{
+anchors = (
+{
+name = top;
+pos = (430,1304);
+}
+);
+hints = (
+{
+name = "_corner.hook-UC-XY";
+options = 1;
+origin = (2,2);
+type = Corner;
+}
+);
+layerId = "02CCE267-3429-4A8C-B11C-70F8CE339653";
+shapes = (
+{
+closed = 1;
+nodes = (
+(500,535,l),
+(184,1240,l),
+(16,1240,l),
+(361,470,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(500,0,l),
+(500,595,l),
+(341,595,l),
+(341,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(848,1224,l),
+(848,1240,l),
+(814,1240,l),
+(467,564,l),
+(495,538,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 864;
+}
+);
+metricLeft = "=16";
+metricRight = "=|";
+unicode = 89;
+}
