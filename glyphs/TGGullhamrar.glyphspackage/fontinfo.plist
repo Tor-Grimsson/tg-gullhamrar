@@ -266,6 +266,9 @@ pos = -320;
 pos = -360;
 },
 {
+},
+{
+pos = -240;
 }
 );
 name = Light;
@@ -402,6 +405,9 @@ pos = -320;
 pos = -360;
 },
 {
+},
+{
+pos = -240;
 }
 );
 name = Regular;
@@ -537,6 +543,9 @@ pos = -320;
 pos = -360;
 },
 {
+},
+{
+pos = -240;
 }
 );
 name = Black;
@@ -566,6 +575,17 @@ value = TGGullhamrarVF;
 }
 );
 name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "TG Gullhamrar Variable";
+}
+);
+}
+);
 type = variable;
 },
 {
@@ -3078,6 +3098,10 @@ type = descender;
 },
 {
 type = "italic angle";
+},
+{
+filter = "case == 2";
+name = "Marks below";
 }
 );
 properties = (

@@ -2,7 +2,7 @@
 title: TG Gullhamrar — plan
 type: plan
 status: draft
-updated: 2026-11-11
+updated: 2026-11-12
 description: Six workstreams from the 2026-11-11 evaluation to a standard, kerned Western European release — VF standards (Regular master, Axis Location, no build script), spacing, kerning, punctuation and ASCII, WE letters, alternates and ligatures.
 aliases:
   - tg-gullhamrar-plan
@@ -23,7 +23,7 @@ related:
 # TG Gullhamrar — plan
 
 **Raised:** 2026-11-11, from [[01-evaluation|the 2026-11-11 evaluation]]. Follows `docs/operations/02-family-pipeline.md` step 2.
-**Status:** approved 2026-11-11. First pass of W1–W6 done the same day, unsaved; see [[03-first-pass|first pass]]. W7 done the same day, unsaved. Open: TALK 2.1, 2.2, 6.1; ligature Regular/Black are estimates to refine; @ ¶ Œ œ; ordinals, superiors and fractions.
+**Status:** approved 2026-11-11. First pass of W1–W6 done the same day, unsaved; see [[03-first-pass|first pass]]. W7 done and saved the same day; pipeline steps 3–5 done (exported, collected, proofs printed, on GitHub). Open: proof review (kerning first pass); § Black; TALK 2.1, 2.2, 6.1; ligature Regular/Black are estimates to refine; ¶ Œ œ; ordinals ª º, superiors ¹ ² ³ and fractions; cedilla ¸ spacing; Export dialog wrote nothing (exported from a script instead).
 **Shape:** W › phase › list.
 **Laws carried:** the work is done through the Glyphs MCP on `glyphs/TGGullhamrar.glyphspackage`. Nothing is saved without his word, and every edit is previewed first. From W1 on there are three masters (Light `m01`, Regular, Black `m002`), and they are edited together. Wherever a step below says "both masters", read "all three". Kerning is measured from the font's own outlines, never stolen (ARCHITECTURE §7).
 **How a phase closes:** a measurable acceptance line, read back through the MCP, then he looks at it in Glyphs.
@@ -134,3 +134,11 @@ Done in Glyphs alone, with no build script. TG Rót needed `build.sh` for its wi
 ### 7.4 — Rough-ins (light blue, for review)
 - ƒ from `f`; % ‰ from small zeros and a slash; ~ from the tilde; † ‡ ¤ as simple geometry.
 - **Acceptance:** each exists with its Unicode value in all three masters, is compatible, and is no longer an orange box.
+
+## Second pass — 2026-11-12 (OPEN.md worked through)
+
+- **Metrics sync** (playbook § 3): one layer out, `quotedbl` Regular (keyed to hyphen), 79/81 → 80/80, width unchanged. Update Metrics on every master is the last step before each export.
+- **@ rebuilt** as a real @: ©'s ring opened at the bottom right (cut on the ring's own curves, so its shape is unchanged), the `a` decomposed, and its stem continued in a hook into the ring's open end. Same point structure in Light, Regular and Black. The old @ (a scaled `a` component inside a closed ring) also broke remove-overlap in the Medium and SemiBold exports.
+- **Exported** VF + 7 statics + WOFF2 from one saved source; old exports in `_tmp/2026-11-12-export-before-at-rebuild/`. Collected.
+- **Family PDFs** reprinted (`proof-family`, `specimen-family`, `warbler`, `text-camus`); the one-style proofs moved to `_tmp/2026-11-12-one-style-proofs/`.
+- **Sibling check** against Rót and Málrómur: root files, `.gitignore`, numbered docs + OPEN, VF + a static per style, VF-only WOFF2, the four PDFs, the collection — no differences.

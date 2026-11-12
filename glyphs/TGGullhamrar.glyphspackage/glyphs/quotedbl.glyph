@@ -71,12 +71,11 @@ layerId = "02CCE267-3429-4A8C-B11C-70F8CE339653";
 shapes = (
 {
 alignment = -1;
-pos = (-1,0);
 ref = quotesingle;
 },
 {
 alignment = -1;
-pos = (192,0);
+pos = (193,0);
 ref = quotesingle;
 }
 );
